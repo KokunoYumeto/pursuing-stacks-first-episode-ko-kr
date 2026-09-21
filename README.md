@@ -1,43 +1,16 @@
-# Pursuing Stacks — Korean edition
+# 철회 공지: v1.0.0은 번역 미완성입니다
 
-This repository is the public source home for the direct Korean main-text
-edition of Alexander Grothendieck's *Pursuing Stacks, First Episode: The
-Modelizing Story*.
+> **v1.0.0을 완전한 한국어 번역본으로 사용하거나 인용하지 마십시오.**
 
-The edition covers all 141 main-text units: sections 1–140, including the
-inserted section 16bis. The source preface and all 18 appendices are retained
-in English and are identified as such in the edition-scope notice.
+이 저장소는 이전에 v1.0.0을 완전한 한국어판이라고 잘못 표시했습니다. 실제로 번역된 것은 번호가 붙은 본문 단위뿐이며, 두 서문, 부록 「Larry Breen에게 보낸 세 통의 편지」와 그 안의 18개 소절, 부록의 주석과 편집 문구, 그리고 여러 장 제목은 영어 또는 프랑스어로 남아 있습니다. 따라서 이 버전은 완전한 번역의 기본 요건을 충족하지 않으며 번역본으로서의 사용에서 철회합니다.
 
-## Read and download
+감사 기록과 DOI 연속성을 보존하기 위해 원래 파일과 `v1.0.0` 릴리스 자산은 공개 상태로 유지합니다. 완전한 개정판은 이 저장소와 기존 Zenodo 개념 DOI 계보를 이어갑니다. 전체 원문이 번역 피복 검사를 통과하기 전에는 “완전판”이라고 표시하지 않습니다.
 
-- [Zenodo record and DOI](https://doi.org/10.5281/zenodo.22870237)
-- [GitHub release](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ko-kr/releases/tag/v1.0.0)
+## 관련 기록
 
-The release inventory is intentionally ordered:
+- [이 판의 Zenodo 기록](https://doi.org/10.5281/zenodo.22870237)
+- [중국어 간체판(v1.0.0 철회)](https://doi.org/10.5281/zenodo.22870233)
+- [일본어판(v1.0.0 철회)](https://doi.org/10.5281/zenodo.22870235)
+- [영문 원전 arXiv:2111.01000v2](https://arxiv.org/abs/2111.01000)
 
-1. `01_pursuing-stacks.ko-KR.pdf` — cumulative reader PDF.
-2. `02_pursuing-stacks.ko-KR.cumulative.tex` — directly downloadable,
-   complete cumulative LaTeX.
-3. `03_pursuing-stacks.ko-KR.source.zip` — complete editable source, including
-   fonts, figures, bibliography, build instructions, and build script.
-
-Exact SHA-256 checksums are recorded in `SHA256SUMS`.
-
-## Companion editions
-
-- Simplified Chinese: [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-zh-hans-cn) · [Zenodo](https://doi.org/10.5281/zenodo.22870233)
-- Japanese: [GitHub](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja) · [Zenodo](https://doi.org/10.5281/zenodo.22870235)
-
-## Authority and editorial boundary
-
-The immutable source authority is arXiv:2111.01000v2. The translation preserves
-mathematical notation, labels, references, notes, page markers, and claim
-status. Suspected source issues are recorded rather than silently emended.
-This is not an official Stacks Project edition and makes no claim of approval
-by the Stacks Project.
-
-The PDF, direct cumulative LaTeX, and source archive passed deterministic
-rebuild, exact 423-binding projection, font/extraction, complete-page render,
-representative visual, and source-archive checks.
-
-Released under CC0 1.0 Universal, without warranty.
+라이선스: CC0 1.0 Universal. 보증 없음.
