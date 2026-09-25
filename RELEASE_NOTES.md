@@ -68,7 +68,7 @@ OpenAI Codex — GPT-5.6 Sol(추론 강도: Ultra)가 수행했다.
 - [한국어판 Zenodo v1.2.0](https://doi.org/10.5281/zenodo.22949505)
 - [한국어판 Zenodo 개념 DOI](https://doi.org/10.5281/zenodo.22870236)
 - [원자료 arXiv:2111.01000v2](https://arxiv.org/abs/2111.01000)
-- [중국어 간체판 Zenodo v1.2.0](https://doi.org/10.5281/zenodo.22931280) · [중국어 간체판 GitHub 저장소](https://github.com/KokunoYumeto/pursuing-stacks-zh-hans-cn)
-- [일본어판 Zenodo v1.2.0](https://doi.org/10.5281/zenodo.22938804) · [일본어판 GitHub 저장소](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja)
+- [중국어 간체판 Zenodo v1.2.0](https://doi.org/10.5281/zenodo.22931280) · [개념 DOI](https://doi.org/10.5281/zenodo.22870232) · [GitHub 저장소](https://github.com/KokunoYumeto/pursuing-stacks-zh-hans-cn)
+- [일본어판 Zenodo v1.2.0](https://doi.org/10.5281/zenodo.22938804) · [개념 DOI](https://doi.org/10.5281/zenodo.22870234) · [GitHub 저장소](https://github.com/KokunoYumeto/pursuing-stacks-first-episode-ja)
 
 라이선스: CC0 1.0 Universal. 보증 없음.
