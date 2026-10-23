@@ -1,10 +1,11 @@
-# Purpose and use
+# 목적과 이용
 
-This is an independent, non-commercial, educational edition. It was made and paid for privately by its
-maintainer, so that people can read the works of Alexander Grothendieck and his collaborators in their own
-language. Nothing here is sold, and no revenue is collected. The aim is to turn this material into open teaching
-resources, including public lesson plans.
+이 프로젝트는 알렉산더 그로텐디크의 『스택을 좇아서: 제1화—모형화 이야기』를
+한국어로 직접 읽을 수 있게 하고, 편집·재현 가능한 LaTeX 소스와 함께 제공하는
+독립적이고 비영리적인 개방형 교육 한국어판이다. 내용을 판매하지 않으며 수익을
+받지 않는다.
 
-The original works remain their authors' work, and the rights in them remain with their holders; this edition
-claims no ownership of the originals. The original texts are freely readable elsewhere, for example on Numdam and
-arXiv.
+이 프로젝트는 Stacks Project의 공식 판이 아니며 저자, 원편집자 또는 관계 기관의
+승인을 나타내지 않는다. 원작은 그 저자의 저작이며 서지, 고유명과 영구 식별자는
+학술적 동일성에 따라 보존한다. 번역문과 이 프로젝트의 편집 자료는 저장소의
+CC0 1.0 Universal 라이선스 문서에 따라 보증 없이 제공한다.
